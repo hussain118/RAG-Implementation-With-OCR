@@ -1,0 +1,8 @@
+backend/.env
+backend/chroma_db/
+backend/temp/
+backend/debug.json
+__pycache__/
+*.pyc
+.venv/
+venv/
